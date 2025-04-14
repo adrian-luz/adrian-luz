@@ -1,4 +1,4 @@
-## Olá, me chamo Adrian:hurtrealbad:
+## Olá, me chamo Adrian :hurtrealbad:
 
 
 
