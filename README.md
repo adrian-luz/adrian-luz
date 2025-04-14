@@ -1,8 +1,6 @@
-## Olá, me chamo Adrian :feelsgood:
-:finnadie:
-:goberserk:
-:godmode:
-:hurtrealbad:
+## Olá, me chamo Adrian:hurtrealbad:
+
+
 
 <!--
 **adrian-luz/adrian-luz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
