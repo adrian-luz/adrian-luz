@@ -1,6 +1,9 @@
 ## Olá, me chamo Adrian :trollface:
 
 <p>Sobre mim 👇🏻</p>
+<li>🕒Tenho 17 anos</li>
+<li>👨🏻‍💻Cursando Desenvolvimento de Sistemas</li>
+<li>🏫No terceiro ano do Ensino Médio</li>
 
 
 <!--
